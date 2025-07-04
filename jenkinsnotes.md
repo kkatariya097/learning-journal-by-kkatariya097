@@ -86,4 +86,4 @@ In Jenkins, plugins are software components that extend the functionality of the
 
 ## Next step is  
 **What is CI/CD ?**
-read here: [CI/CD notes](https://github.com/kkatariya097/learning-journal-by-kkatariya097/ci-cd.md)
+read here: [CI/CD notes](https://github.com/kkatariya097/learning-journal-by-kkatariya097/blob/main/ci-cd.md)
