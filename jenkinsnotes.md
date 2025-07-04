@@ -79,5 +79,11 @@ These stages can include:
    
 **A pipeline can be visualized as a flowchart or diagram, illustrating the sequence of stages and their dependencies. Each stage typically has defined triggers, conditions, and actions, which are configured to automatically execute based on certain events, such as code commits or a schedule.**
 
-Next step is  **What is CI/CD ? **
-read here: 
+## What are plugins?
+
+In Jenkins, plugins are software components that extend the functionality of the Jenkins automation server. They are used to enhance and customize Jenkins to support various build, test, and deployment scenarios. Jenkins has a vast ecosystem of plugins that provide integration with different tools, technologies, and services.
+
+
+## Next step is  
+**What is CI/CD ?**
+read here: [CI/CD notes](https://github.com/kkatariya097/learning-journal-by-kkatariya097/ci-cd.md)
