@@ -1,4 +1,7 @@
 ## What is CI/CD?
+> [!NOTE]
+> The information provided below is based on my understanding and research from various online sources. If you find any inaccuracies or have suggestions for improvement, please feel free to reach out to me :e-mail: @ kavyakatariya097@gmail.com
+
 
 ![image](https://github.com/user-attachments/assets/b100cd25-1af5-49f0-9964-920df60c6154)
 
